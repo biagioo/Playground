@@ -3,9 +3,13 @@ import UpdatedComponent from './withCounter';
 
 class ClickCounter extends Component {
   render() {
-    const {count, incrementCount} = this.props;
+    const {count, incrementCount, name} = this.props;
 
-    return <button onClick={incrementCount}>Clicked {count} Times</button>;
+    return (
+      <button onClick={incrementCount}>
+        {name} Clicked {count} Times
+      </button>
+    );
   }
 }
 
