@@ -1,2 +1,3 @@
-# ReactPlayground
-Repo to learn and experiment anything to do with React
+# Playground
+
+Repo to learn and experiment with!
