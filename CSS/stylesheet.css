@@ -34,3 +34,17 @@ p.para3 {
   border-width: 2px;
   border-style: solid;
 }
+
+p.para4 {
+  color: black;
+  font-size: 15px;
+  line-height: 1.5em;
+  background-color: #e5e4d7;
+  padding: 20px;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  margin: 20px;
+  margin-top: 50px;
+  margin-left: 400px;
+}
