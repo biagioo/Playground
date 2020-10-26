@@ -48,3 +48,13 @@ p.para4 {
   margin-top: 50px;
   margin-left: 400px;
 }
+.imagec {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 3px;
+  background-color: silver;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+}
