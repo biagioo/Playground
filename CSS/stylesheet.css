@@ -29,10 +29,9 @@ p.para3 {
   font-size: 15px;
   line-height: 1.5em;
   background-color: #e5e4d7;
-  padding: 20px;
-  border-color: black;
-  border-width: 2px;
-  border-style: solid;
+  padding: 20px 20px 20px 20px;
+  border: black 2px solid;
+  background-image: url(CloudsB.jpg);
 }
 
 p.para4 {
