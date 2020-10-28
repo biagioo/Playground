@@ -20,12 +20,8 @@ p.para1 {
   color: blue;
 }
 
-p.para2 {
-  color: purple;
-}
-
-p.para3 {
-  color: purple;
+p.paragraph {
+  color: black;
   font-size: 15px;
   line-height: 1.5em;
   background-color: #e5e4d7;
@@ -34,7 +30,7 @@ p.para3 {
   background-image: url(CloudsB.jpg);
 }
 
-p.para4 {
+#para4homepage {
   color: black;
   font-size: 15px;
   line-height: 1.5em;
