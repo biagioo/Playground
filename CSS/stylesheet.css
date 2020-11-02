@@ -9,14 +9,16 @@ body {
 h1 {
   text-decoration: underline;
   font-size: 150%;
+  text-align: center;
 }
 
 h2 {
   text-decoration: underline;
   font-size: 1.2em;
+  text-align: center;
 }
 
-p.para1 {
+#para1homepage {
   color: blue;
 }
 
