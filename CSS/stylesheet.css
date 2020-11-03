@@ -20,6 +20,11 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  color: green;
+  text-decoration: underline;
+}
+
 #para1homepage {
   color: blue;
 }
@@ -61,6 +66,9 @@ img.image {
   color: black;
 }
 #divbass {
+  color: black;
+}
+.divcontent {
   color: black;
 }
 
