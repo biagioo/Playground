@@ -87,3 +87,9 @@ a:visited {
 a:hover {
   color: #f15a51;
 }
+
+#navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
